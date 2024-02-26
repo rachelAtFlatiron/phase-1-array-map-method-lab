@@ -1,5 +1,6 @@
 # Using the Array Map Method
 
+<img src="./index.svg" />
 ## Learning Goals
 
 - Review how the `map()` method works
